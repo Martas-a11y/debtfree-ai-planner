@@ -40,3 +40,13 @@ The [blog](https://debtpayoffplanner.xyz) hosts book-style guides, each with ful
 - Credit-score-safe payoff ordering notes
 
 *DebtFree AI is not a lender, counselor, or financial advisor — the guides are education plus real math, and serious hardship situations deserve a nonprofit counselor (NFCC.org).*
+
+
+## New guides (November 2026)
+
+- [How to Pay Off Credit Card Debt: 9 Methods Ranked for 2026](https://debtpayoffplanner.xyz/blog/how-to-pay-off-credit-card-debt) - the ranked methods hub, with the minimum-payment math most guides skip
+- [The Best Way to Pay Off Credit Cards: Math vs Motivation](https://debtpayoffplanner.xyz/blog/best-way-to-pay-off-credit-cards) - snowball vs avalanche vs hybrid, dollar for dollar on a real $18,400 stack
+- [Why Did My Credit Score Drop After Paying Off Debt?](https://debtpayoffplanner.xyz/blog/why-credit-score-dropped-after-paying-off-debt) - five real reasons and the 1-3 billing-cycle recovery
+- [How Long Does It Take to Pay Off Credit Card Debt?](https://debtpayoffplanner.xyz/blog/how-long-to-pay-off-credit-card-debt) - printed payoff timeline tables for $2,000-$20,000 balances
+- [Credit Card Payoff Calculator: How to Actually Use One](https://debtpayoffplanner.xyz/blog/credit-card-payoff-calculator-guide) - the three inputs, the four mistakes
+- [All 20 free guides](https://debtpayoffplanner.xyz/blog) - the complete library
