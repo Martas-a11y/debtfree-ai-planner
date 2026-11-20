@@ -50,3 +50,12 @@ The [blog](https://debtpayoffplanner.xyz) hosts book-style guides, each with ful
 - [How Long Does It Take to Pay Off Credit Card Debt?](https://debtpayoffplanner.xyz/blog/how-long-to-pay-off-credit-card-debt) - printed payoff timeline tables for $2,000-$20,000 balances
 - [Credit Card Payoff Calculator: How to Actually Use One](https://debtpayoffplanner.xyz/blog/credit-card-payoff-calculator-guide) - the three inputs, the four mistakes
 - [All 20 free guides](https://debtpayoffplanner.xyz/blog) - the complete library
+
+
+### Latest guides (November 21, 2026)
+
+- [Free debt payoff planner: the 10-minute plan](https://debtpayoffplanner.xyz/blog/free-debt-payoff-planner)
+- [6 free debt snowball worksheets & templates](https://debtpayoffplanner.xyz/blog/debt-snowball-worksheet-free)
+- [7 debt payoff apps compared: real 2026 costs](https://debtpayoffplanner.xyz/blog/best-debt-payoff-apps-compared)
+- [How to stay motivated paying off debt](https://debtpayoffplanner.xyz/blog/stay-motivated-paying-off-debt)
+- [7 debt snowball myths, math-checked](https://debtpayoffplanner.xyz/blog/debt-snowball-myths)
